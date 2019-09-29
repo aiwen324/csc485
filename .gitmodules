@@ -1,0 +1,3 @@
+[submodule "deptrans"]
+	path = deptrans
+	url = https://github.com/aiwen324/csc485-deptrans.git
